@@ -2,6 +2,8 @@
 
 In this workshop, you'll build a Sims-style character creation screen.
 
+TODO: change paths to absolute to display images in intelliJ 🤷‍♀️
+
 ## Mockups
 
 Desktop:
